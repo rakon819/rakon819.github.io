@@ -4,7 +4,7 @@ const projects = {
         title: "Project One",
         description: "This is my personal website built with HTML, CSS, and JavaScript.",
         image: "assets/images/project1.jpg",
-        link: "https://willowy-melba-a8d5bd.netlify.app"
+        link: "https://fanciful-figolla-cd2ae3.netlify.app"
     },
     project2: {
         title: "Project Two",
